@@ -1,0 +1,9 @@
+#Github.com-ahmedbedir123
+#Github.com-Vasusen-code
+
+https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
+https://github.com/ahmedbedir123/ethon/archive/refs/heads/main.zip
+cryptg
+tgcrypto
+pyrogram
+python-decouple
